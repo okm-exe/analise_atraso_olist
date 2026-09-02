@@ -115,5 +115,6 @@ status_entrega = "Atrasado" se atraso_dias > 0, senão "No Prazo"
 O dashboard interativo completo está disponível no Looker Studio: **https://datastudio.google.com/reporting/369827bb-d5e0-495c-bca7-1a2d7086f314**
 
 ## Autor
+**Kim Schilling**
 
-Projeto desenvolvido como prática de análise de dados (Módulo de Projeto de Parceria | Semantix / Análise de Dados).
+Projeto desenvolvido como prática de análise de dados (Módulo de Projeto de Parceria | Semantix / Análise de Dados - **EBAC**).
