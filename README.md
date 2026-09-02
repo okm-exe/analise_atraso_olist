@@ -97,16 +97,15 @@ status_entrega = "Atrasado" se atraso_dias > 0, senão "No Prazo"
 
 ```
 ├── README.md                          # Este documento
+├── Dissertação sobre o problema
+├── Fontes de dados
+├── Relatório de insights
 ├── notebooks/
 │   └── eda_olist.ipynb                # Notebook com toda a EDA em Python
 ├── dados/
 │   ├── analise_final.csv              # Base tratada (pedido + atraso + nota + categoria)
 │   ├── atraso_por_categoria.csv       # Agregado por categoria
 │   └── tendencia_temporal.csv         # Agregado mensal
-├── relatorios/
-│   ├── dissertacao_problema.md        # Etapa 1 - Dissertação sobre o problema
-│   ├── fontes_de_dados.md             # Etapa 2 - Fontes de dados
-│   └── relatorio_insights.md          # Etapa 4 - Relatório de insights
 └── dashboard/
     └── link_looker_studio.md          # Link para o dashboard publicado
 ```
