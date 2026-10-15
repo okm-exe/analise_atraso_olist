@@ -2,13 +2,15 @@
 
 Projeto de análise de dados desenvolvido a partir do **Brazilian E-Commerce Public Dataset by Olist**, com o objetivo de investigar a relação entre atraso na entrega e a satisfação do cliente (nota de avaliação), identificando padrões que possam orientar ações de melhoria logística.
 
-## Problemática
+## Dashboard
+![Olist Dashboard](dados/dash/dashboard.png)
+O dashboard interativo completo está disponível no Looker Studio: **https://datastudio.google.com/reporting/369827bb-d5e0-495c-bca7-1a2d7086f314**
 
 O comércio eletrônico brasileiro depende fortemente da confiabilidade da entrega para gerar satisfação e retenção de clientes. Este projeto investiga: **por que alguns pedidos atrasam, como isso impacta a avaliação do cliente, e quais categorias/períodos concentram esse problema?**
 
 Sem análise de dados, esse tipo de problema costuma ser percebido apenas de forma reativa (reclamações isoladas), sem dimensionamento real do impacto ou identificação da causa raiz — o que impede ações corretivas direcionadas e mensuráveis.
 
----
+## Dashboard
 
 ## 1. Coleta de Dados
 
